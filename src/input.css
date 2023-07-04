@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-bottom: 25px;
+
+}
+li{
+    margin-inline: 10px;
+}
+li.selected {
+text-decoration: line-through;
+color: red;
+}*/
